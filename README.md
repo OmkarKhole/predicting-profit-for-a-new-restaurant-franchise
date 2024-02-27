@@ -1,6 +1,6 @@
 # predicting-profit-for-a-new-restaurant-franchise
 *Goal - 
-Predicting the profit for a new restaurent outlet in a new city based on the population in that particular city.
+Predicting the profit for a new restaurant outlet in a new city based on the population in that particular city.
 
 Packages used are - Numpy,Matplotlib,Copy,Math
 
